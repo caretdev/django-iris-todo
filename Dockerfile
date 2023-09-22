@@ -1,4 +1,4 @@
-FROM intersystemsdc/iris-community:preview
+FROM intersystemsdc/iris-community
 
 EXPOSE 8000
 
